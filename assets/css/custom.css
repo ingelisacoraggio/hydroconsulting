@@ -1,0 +1,20 @@
+:root {
+  --mm-primary-color: #0A3D62;
+  --mm-secondary-color: #6C5CE7;
+  --mm-accent-color: #3DC1D3;
+  --mm-light-bg: #DCD6F7;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  color: var(--mm-primary-color);
+}
+
+a {
+  color: var(--mm-secondary-color);
+}
+
+.site-header {
+  background: linear-gradient(135deg, var(--mm-primary-color), var(--mm-secondary-color));
+}
