@@ -1,0 +1,30 @@
+title: "HydroConsulting – Elisa"
+description: "Consulenza idrologica, modellistica idraulica e pianificazione delle risorse idriche."
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: default
+
+locale: "it"
+markdown: kramdown
+
+url: "https://ingelisacoraggio.github.io"
+baseurl: "/hydroconsulting"
+
+plugins:
+  - jekyll-include-cache
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Chi sono"
+    url: /chi-sono/
+  - title: "Servizi"
+    url: /servizi/
+  - title: "Progetti"
+    url: /progetti/
+  - title: "Contatti"
+    url: /contatti/
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
