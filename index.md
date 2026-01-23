@@ -3,6 +3,7 @@ layout: single
 title: "Consulenza Idrologica e Pianificazione delle Risorse Idriche"
 excerpt: "Soluzioni tecniche affidabili per enti pubblici, utility e progetti infrastrutturali."
 classes: wide
+nav: true
 ---
 
 ## Benvenuti su HydroConsulting
