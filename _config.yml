@@ -19,16 +19,3 @@ plugins:
 # Attiva il menu principale (fondamentale!)
 masthead:
   nav: "main"
-
-# Navigation del sito
-navigation:
-  - title: "Home"
-    url: /
-  - title: "Chi sono"
-    url: /chi-sono/
-  - title: "Servizi"
-    url: /servizi/
-  - title: "Progetti"
-    url: /progetti/
-  - title: "Contatti"
-    url: /contatti/
