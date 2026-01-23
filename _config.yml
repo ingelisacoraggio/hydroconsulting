@@ -2,7 +2,7 @@ title: "HydroConsulting – Elisa"
 description: "Consulenza idrologica, modellistica idraulica e pianificazione delle risorse idriche."
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: contrast
 
 locale: "it"
 markdown: kramdown
