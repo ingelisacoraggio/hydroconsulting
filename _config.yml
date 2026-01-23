@@ -26,8 +26,3 @@ navigation:
     url: /progetti/
   - title: "Contatti"
     url: /contatti/
-
-collections:
-  pages:
-    output: true
-    permalink: /:path/
