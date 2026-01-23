@@ -15,6 +15,11 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
+# Attiva il menu principale (fondamentale!)
+masthead:
+  nav: "main"
+
+# Navigation del sito
 navigation:
   - title: "Home"
     url: /
