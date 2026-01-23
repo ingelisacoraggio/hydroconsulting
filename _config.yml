@@ -1,9 +1,7 @@
 title: "HydroConsulting – Elisa"
 description: "Consulenza idrologica, modellistica idraulica e pianificazione delle risorse idriche."
 
-# Tema Minimal Mistakes compatibile con GitHub Pages
 remote_theme: "mmistakes/minimal-mistakes"
-theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: default
 
 locale: "it"
@@ -16,6 +14,5 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
-# Attiva il menu principale (fondamentale!)
 masthead:
   nav: "main"
