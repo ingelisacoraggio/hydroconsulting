@@ -12,7 +12,6 @@ baseurl: "/hydroconsulting"
 
 plugins:
   - jekyll-include-cache
-  - jekyll-remote-theme
 
 masthead:
   nav: "main"
